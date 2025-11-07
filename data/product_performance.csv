@@ -1,0 +1,37 @@
+﻿product_name,product_type,total_sold,total_revenue,unit_profitability,PPI,PPI_scaled,segment,segment_description
+Bomber,Jacket,297,29700,100.0,68700,0.0687,Volume Products,"High PPI + Low Profit. Low price, high selling volume traffic drivers."
+Camp Collared,Shirt,279,27342,98.0,64386,0.064386,Underperformers,Low Profit + Low PPI. Low demand low profit; discontinue candidate products.
+Cardigan,Jacket,260,29120,112.0,66528,0.066528,High Performers,High Profit + High PPI. These products are strategic revenue drivers.
+Cargo Pants,Trousers,267,27234,102.0,63546,0.063546,Premium / Niche Segment,High Profit + Low PPI. Premium positioned products with selective demand.
+Casual Slim Fit,Shirt,306,36414,119.0,84490,0.08449,High Performers,High Profit + High PPI. These products are strategic revenue drivers.
+Chambray,Shirt,290,30740,106.0,73352,0.073352,High Performers,High Profit + High PPI. These products are strategic revenue drivers.
+Chinos,Trousers,260,29380,113.0,65992,0.065992,High Performers,High Profit + High PPI. These products are strategic revenue drivers.
+Coach,Jacket,265,24645,93.0,56637,0.056637,Underperformers,Low Profit + Low PPI. Low demand low profit; discontinue candidate products.
+Cords,Trousers,246,23124,94.0,53016,0.053016,Underperformers,Low Profit + Low PPI. Low demand low profit; discontinue candidate products.
+Cropped,Trousers,284,32660,115.0,79120,0.07912,High Performers,High Profit + High PPI. These products are strategic revenue drivers.
+Cuban Collar,Shirt,254,26670,105.0,63210,0.06321,Premium / Niche Segment,High Profit + Low PPI. Premium positioned products with selective demand.
+Denim,Jacket,527,52399,99.42884250474383,117119,0.117119,Volume Products,"High PPI + Low Profit. Low price, high selling volume traffic drivers."
+Denim,Shirt,527,52399,99.42884250474383,117119,0.117119,Volume Products,"High PPI + Low Profit. Low price, high selling volume traffic drivers."
+Drawstring,Trousers,288,27648,96.0,62784,0.062784,Underperformers,Low Profit + Low PPI. Low demand low profit; discontinue candidate products.
+Dress,Shirt,243,25272,104.0,56472,0.056472,Premium / Niche Segment,High Profit + Low PPI. Premium positioned products with selective demand.
+Flannel,Shirt,281,33158,118.0,76818,0.076818,High Performers,High Profit + High PPI. These products are strategic revenue drivers.
+Henley,Shirt,281,26414,94.0,59878,0.059878,Underperformers,Low Profit + Low PPI. Low demand low profit; discontinue candidate products.
+High-Waisted,Trousers,278,27522,99.0,64350,0.06435,Underperformers,Low Profit + Low PPI. Low demand low profit; discontinue candidate products.
+Joggers,Trousers,334,31062,93.0,72540,0.07254,Volume Products,"High PPI + Low Profit. Low price, high selling volume traffic drivers."
+Leather,Jacket,263,25774,98.0,58898,0.058898,Underperformers,Low Profit + Low PPI. Low demand low profit; discontinue candidate products.
+Linen,Shirt,270,24570,91.0,58604,0.058604,Underperformers,Low Profit + Low PPI. Low demand low profit; discontinue candidate products.
+Mandarin Collar,Shirt,236,25724,109.0,57334,0.057334,Premium / Niche Segment,High Profit + Low PPI. Premium positioned products with selective demand.
+Oxford Cloth,Shirt,289,27744,96.0,63648,0.063648,Underperformers,Low Profit + Low PPI. Low demand low profit; discontinue candidate products.
+Parka,Jacket,269,30397,113.0,71303,0.071303,High Performers,High Profit + High PPI. These products are strategic revenue drivers.
+Peacoat,Jacket,266,28994,109.0,67362,0.067362,High Performers,High Profit + High PPI. These products are strategic revenue drivers.
+Pleated,Trousers,308,32340,105.0,77490,0.07749,High Performers,High Profit + High PPI. These products are strategic revenue drivers.
+Polo,Shirt,264,25080,95.0,58520,0.05852,Underperformers,Low Profit + Low PPI. Low demand low profit; discontinue candidate products.
+Puffer,Jacket,298,35164,118.0,85668,0.085668,High Performers,High Profit + High PPI. These products are strategic revenue drivers.
+Pullover,Jacket,276,25116,91.0,57512,0.057512,Underperformers,Low Profit + Low PPI. Low demand low profit; discontinue candidate products.
+Relaxed Leg,Trousers,301,27090,90.0,63810,0.06381,Underperformers,Low Profit + Low PPI. Low demand low profit; discontinue candidate products.
+Shearling,Jacket,302,35334,117.0,83538,0.083538,High Performers,High Profit + High PPI. These products are strategic revenue drivers.
+Slim-Fit,Trousers,288,27936,97.0,61886,0.061886,Underperformers,Low Profit + Low PPI. Low demand low profit; discontinue candidate products.
+Tracksuit Bottoms,Trousers,257,28784,112.0,66640,0.06664,High Performers,High Profit + High PPI. These products are strategic revenue drivers.
+Trench Coat,Jacket,299,35581,119.0,84847,0.084847,High Performers,High Profit + High PPI. These products are strategic revenue drivers.
+Windbreaker,Jacket,287,29274,102.0,67626,0.067626,High Performers,High Profit + High PPI. These products are strategic revenue drivers.
+Wool,Trousers,249,26394,106.0,61374,0.061374,Premium / Niche Segment,High Profit + Low PPI. Premium positioned products with selective demand.

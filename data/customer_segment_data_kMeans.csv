@@ -1,0 +1,618 @@
+customer_id,payment,age,state,cluster
+1,1641.0,30,Northern Territory,2
+7,1017.0,76,Queensland,1
+10,270.0,70,Western Australia,1
+11,382.0,39,Northern Territory,1
+12,1551.0,78,South Australia,2
+13,332.0,42,Queensland,1
+15,2475.0,34,Western Australia,2
+16,1256.0,75,Victoria,1
+18,2301.0,79,New South Wales,2
+19,1172.0,41,Victoria,1
+20,1520.0,55,South Australia,2
+21,2552.0,31,Tasmania,2
+22,2539.0,20,Victoria,2
+23,1268.0,32,Tasmania,1
+25,1253.0,75,Victoria,1
+26,1347.0,50,New South Wales,1
+27,1265.0,55,Western Australia,1
+28,2877.0,79,Queensland,0
+34,866.0,55,Western Australia,1
+35,1640.0,80,Queensland,2
+40,1117.0,59,New South Wales,1
+41,1417.0,65,New South Wales,2
+42,1099.0,37,Victoria,1
+44,1194.0,60,Tasmania,1
+45,399.0,27,Australian Capital Territory,1
+46,710.0,68,Australian Capital Territory,1
+47,183.0,54,Western Australia,1
+49,1392.0,56,Queensland,2
+50,2564.0,63,Western Australia,2
+51,3598.0,52,Northern Territory,0
+52,1180.0,47,Victoria,1
+54,1899.0,62,Queensland,2
+55,1382.0,45,South Australia,2
+58,2387.0,39,New South Wales,2
+60,725.0,20,Tasmania,1
+61,236.0,65,South Australia,1
+62,3682.0,32,Australian Capital Territory,0
+64,1487.0,75,South Australia,2
+68,1586.0,23,Western Australia,2
+69,1234.0,79,Victoria,1
+70,547.0,48,Northern Territory,1
+72,569.0,42,Tasmania,1
+73,876.0,48,South Australia,1
+75,2571.0,75,South Australia,2
+76,529.0,51,New South Wales,1
+77,1201.0,62,South Australia,1
+78,2412.0,38,Northern Territory,2
+79,1419.0,46,Australian Capital Territory,2
+81,2508.0,30,Western Australia,2
+83,1240.0,40,Northern Territory,1
+84,3174.0,63,Northern Territory,0
+85,1664.0,27,Northern Territory,2
+86,2342.0,76,Tasmania,2
+87,1149.0,53,Northern Territory,1
+88,2077.0,78,South Australia,2
+89,908.0,51,Queensland,1
+92,1678.0,27,Queensland,2
+93,390.0,66,Queensland,1
+94,1231.0,46,Western Australia,1
+95,1932.0,33,Western Australia,2
+96,1991.0,41,New South Wales,2
+97,938.0,39,Northern Territory,1
+99,1256.0,75,Tasmania,1
+100,3032.0,69,Queensland,0
+102,2805.0,32,Queensland,0
+103,1733.0,77,South Australia,2
+104,819.0,73,Australian Capital Territory,1
+106,2531.0,38,Australian Capital Territory,2
+107,4385.0,35,Western Australia,0
+108,2831.0,57,Queensland,0
+110,941.0,65,Western Australia,1
+111,917.0,52,Northern Territory,1
+112,1378.0,42,South Australia,2
+113,1288.0,57,South Australia,1
+116,685.0,35,Northern Territory,1
+117,1824.0,75,Tasmania,2
+118,788.0,57,Australian Capital Territory,1
+120,714.0,60,Queensland,1
+123,3976.0,22,Tasmania,0
+124,494.0,54,New South Wales,1
+125,1612.0,77,Tasmania,2
+127,1145.0,30,Western Australia,1
+128,1503.0,48,Northern Territory,2
+129,4399.0,68,Western Australia,0
+133,697.0,49,Tasmania,1
+134,605.0,64,Victoria,1
+135,1537.0,25,Western Australia,2
+139,923.0,73,Australian Capital Territory,1
+142,714.0,75,South Australia,1
+144,998.0,60,South Australia,1
+146,616.0,50,Western Australia,1
+148,2376.0,53,Northern Territory,2
+150,721.0,26,Tasmania,1
+155,1366.0,80,New South Wales,2
+156,1675.0,24,Western Australia,2
+158,879.0,33,New South Wales,1
+160,1412.0,26,New South Wales,2
+161,1328.0,29,Western Australia,1
+163,3494.0,20,Australian Capital Territory,0
+167,738.0,34,Australian Capital Territory,1
+169,858.0,72,Western Australia,1
+171,697.0,80,Western Australia,1
+176,412.0,45,New South Wales,1
+178,1079.0,51,Australian Capital Territory,1
+179,1587.0,52,Queensland,2
+180,2300.0,21,Western Australia,2
+181,2159.0,27,Northern Territory,2
+183,3374.0,44,Queensland,0
+185,600.0,67,Victoria,1
+187,1998.0,70,Queensland,2
+189,1732.0,28,Western Australia,2
+191,1005.0,76,Northern Territory,1
+192,1493.0,63,Tasmania,2
+195,719.0,72,New South Wales,1
+196,1110.0,25,South Australia,1
+198,417.0,66,Victoria,1
+199,675.0,65,South Australia,1
+201,3519.0,58,Australian Capital Territory,0
+203,942.0,30,Australian Capital Territory,1
+204,1583.0,60,New South Wales,2
+206,5581.0,66,Queensland,3
+207,3320.0,56,Queensland,0
+208,919.0,71,South Australia,1
+209,3477.0,29,South Australia,0
+211,688.0,52,New South Wales,1
+212,526.0,79,Western Australia,1
+214,621.0,55,Queensland,1
+218,1069.0,78,Queensland,1
+219,921.0,44,Tasmania,1
+221,1282.0,43,Australian Capital Territory,1
+223,551.0,51,South Australia,1
+224,1649.0,78,New South Wales,2
+225,1887.0,75,Queensland,2
+227,1765.0,26,Tasmania,2
+228,1797.0,40,Northern Territory,2
+230,873.0,21,Tasmania,1
+232,499.0,24,Northern Territory,1
+233,632.0,33,South Australia,1
+234,2461.0,37,Victoria,2
+236,2692.0,80,New South Wales,0
+237,2469.0,71,New South Wales,2
+238,925.0,30,Tasmania,1
+239,501.0,63,Australian Capital Territory,1
+240,2536.0,25,Victoria,2
+241,1467.0,61,Queensland,2
+244,3983.0,38,Victoria,0
+246,477.0,40,Tasmania,1
+247,1558.0,57,Victoria,2
+250,1396.0,23,Queensland,2
+251,537.0,78,Australian Capital Territory,1
+254,2491.0,44,Queensland,2
+256,3214.0,46,Australian Capital Territory,0
+257,1016.0,61,Australian Capital Territory,1
+258,3773.0,62,Queensland,0
+260,2184.0,27,Tasmania,2
+263,419.0,22,Western Australia,1
+264,1654.0,40,Queensland,2
+265,743.0,52,Tasmania,1
+266,3183.0,55,New South Wales,0
+267,2016.0,45,Western Australia,2
+268,1109.0,47,South Australia,1
+269,2029.0,20,New South Wales,2
+272,1648.0,22,Victoria,2
+273,1169.0,46,Northern Territory,1
+276,1163.0,56,Victoria,1
+278,1826.0,73,Queensland,2
+282,7632.0,59,Australian Capital Territory,3
+283,1187.0,23,New South Wales,1
+286,1606.0,34,Queensland,2
+288,682.0,24,Victoria,1
+289,1234.0,43,Australian Capital Territory,1
+290,2144.0,67,Tasmania,2
+291,1017.0,43,Tasmania,1
+292,2100.0,25,Victoria,2
+298,635.0,29,Queensland,1
+299,1608.0,32,Victoria,2
+300,1431.0,24,Western Australia,2
+301,1093.0,47,South Australia,1
+303,1747.0,75,New South Wales,2
+305,887.0,25,Australian Capital Territory,1
+306,3331.0,68,Queensland,0
+308,1823.0,70,Northern Territory,2
+309,1567.0,29,Queensland,2
+310,2389.0,61,New South Wales,2
+311,1815.0,25,Northern Territory,2
+313,961.0,24,South Australia,1
+315,1798.0,49,Australian Capital Territory,2
+316,655.0,67,Northern Territory,1
+317,2131.0,48,Australian Capital Territory,2
+318,2248.0,63,Western Australia,2
+320,1296.0,43,Tasmania,1
+321,205.0,44,New South Wales,1
+323,1571.0,40,South Australia,2
+325,2570.0,68,South Australia,2
+326,2716.0,54,Northern Territory,0
+327,2851.0,71,Western Australia,0
+328,2866.0,59,Western Australia,0
+329,1245.0,53,Western Australia,1
+330,345.0,47,Victoria,1
+331,2061.0,32,Northern Territory,2
+332,667.0,75,Northern Territory,1
+333,960.0,57,South Australia,1
+334,1054.0,68,Queensland,1
+336,583.0,35,Australian Capital Territory,1
+337,1452.0,78,Western Australia,2
+338,980.0,75,New South Wales,1
+341,3291.0,34,Victoria,0
+342,715.0,45,Victoria,1
+343,1159.0,47,Northern Territory,1
+345,1459.0,62,Victoria,2
+346,204.0,40,Northern Territory,1
+347,1527.0,20,Victoria,2
+348,5119.0,76,Tasmania,3
+350,1286.0,23,Victoria,1
+352,578.0,31,Queensland,1
+357,738.0,41,Australian Capital Territory,1
+358,1166.0,64,Northern Territory,1
+359,2074.0,28,Victoria,2
+360,1432.0,68,Northern Territory,2
+362,1338.0,39,Queensland,1
+364,986.0,28,New South Wales,1
+365,755.0,25,Tasmania,1
+366,1141.0,64,Victoria,1
+367,1842.0,51,South Australia,2
+368,770.0,61,Australian Capital Territory,1
+369,1678.0,46,Australian Capital Territory,2
+370,2165.0,38,Australian Capital Territory,2
+371,1287.0,63,Queensland,1
+372,1066.0,53,South Australia,1
+375,1260.0,77,Northern Territory,1
+382,4103.0,24,Victoria,0
+383,1179.0,23,Victoria,1
+387,2755.0,43,Victoria,0
+388,624.0,38,Northern Territory,1
+389,1085.0,41,South Australia,1
+390,307.0,36,Western Australia,1
+391,650.0,75,Australian Capital Territory,1
+394,1691.0,26,Tasmania,2
+397,748.0,50,Australian Capital Territory,1
+398,1764.0,50,Western Australia,2
+399,590.0,46,Western Australia,1
+401,3093.0,73,Western Australia,0
+402,2004.0,22,Tasmania,2
+404,1803.0,79,Australian Capital Territory,2
+406,0.0,59,Victoria,1
+407,1352.0,41,Queensland,1
+408,1085.0,66,Australian Capital Territory,1
+409,2431.0,75,Australian Capital Territory,2
+412,1951.0,21,South Australia,2
+413,1710.0,25,Queensland,2
+414,734.0,51,Queensland,1
+415,2269.0,40,South Australia,2
+416,2057.0,21,New South Wales,2
+417,585.0,57,Tasmania,1
+418,2258.0,57,Australian Capital Territory,2
+419,452.0,58,Queensland,1
+421,321.0,62,Australian Capital Territory,1
+422,3270.0,34,Queensland,0
+423,1426.0,32,South Australia,2
+426,1298.0,40,Victoria,1
+427,2334.0,25,Queensland,2
+428,946.0,66,Australian Capital Territory,1
+431,3565.0,41,Victoria,0
+432,1210.0,34,Victoria,1
+433,2231.0,46,Tasmania,2
+434,533.0,20,Western Australia,1
+435,212.0,41,South Australia,1
+436,1080.0,41,South Australia,1
+439,3916.0,75,Victoria,0
+441,2893.0,53,Western Australia,0
+442,690.0,26,New South Wales,1
+443,2604.0,49,Victoria,2
+445,3155.0,44,Victoria,0
+446,1620.0,47,Tasmania,2
+447,408.0,68,New South Wales,1
+448,831.0,61,Queensland,1
+450,480.0,59,New South Wales,1
+452,1450.0,27,New South Wales,2
+453,1733.0,35,Tasmania,2
+454,2395.0,28,New South Wales,2
+455,400.0,60,Northern Territory,1
+456,1316.0,33,Queensland,1
+457,2866.0,27,Victoria,0
+458,691.0,42,Queensland,1
+460,797.0,31,Victoria,1
+461,3619.0,54,Australian Capital Territory,0
+462,951.0,45,South Australia,1
+463,1736.0,58,Australian Capital Territory,2
+465,4807.0,38,Victoria,3
+466,2066.0,28,South Australia,2
+467,3564.0,53,South Australia,0
+468,1365.0,67,Tasmania,2
+469,2785.0,78,New South Wales,0
+470,1548.0,45,Western Australia,2
+471,1867.0,31,New South Wales,2
+472,2863.0,57,Queensland,0
+473,2175.0,61,South Australia,2
+474,1529.0,21,South Australia,2
+476,1119.0,64,South Australia,1
+478,1834.0,71,Northern Territory,2
+479,1610.0,20,Western Australia,2
+482,1164.0,63,Queensland,1
+485,3864.0,46,Australian Capital Territory,0
+486,724.0,66,Northern Territory,1
+489,1970.0,59,New South Wales,2
+490,2420.0,57,New South Wales,2
+492,1626.0,62,Queensland,2
+493,3015.0,63,Victoria,0
+496,1203.0,32,South Australia,1
+497,768.0,31,Northern Territory,1
+499,921.0,24,Australian Capital Territory,1
+500,1039.0,78,Western Australia,1
+501,1084.0,73,Tasmania,1
+502,1693.0,34,Australian Capital Territory,2
+504,2130.0,56,Northern Territory,2
+506,885.0,37,Australian Capital Territory,1
+507,1393.0,74,Victoria,2
+508,1714.0,65,Northern Territory,2
+510,1372.0,67,New South Wales,2
+513,1244.0,39,Tasmania,1
+515,3326.0,52,Australian Capital Territory,0
+516,1625.0,69,Northern Territory,2
+518,1032.0,31,Northern Territory,1
+522,1263.0,71,South Australia,1
+523,641.0,22,Northern Territory,1
+524,726.0,80,Queensland,1
+526,2358.0,73,Tasmania,2
+528,1378.0,63,Western Australia,2
+530,1423.0,63,Western Australia,2
+534,1680.0,54,Tasmania,2
+535,2586.0,56,South Australia,2
+537,2146.0,45,Western Australia,2
+539,3775.0,78,Queensland,0
+545,500.0,59,Queensland,1
+548,1605.0,57,Northern Territory,2
+549,3624.0,50,Northern Territory,0
+550,390.0,22,New South Wales,1
+551,1754.0,68,South Australia,2
+553,2167.0,30,New South Wales,2
+554,708.0,56,Tasmania,1
+555,978.0,77,Victoria,1
+556,2048.0,61,South Australia,2
+557,1807.0,59,Tasmania,2
+558,2712.0,38,South Australia,0
+562,1430.0,58,Queensland,2
+564,1786.0,34,Northern Territory,2
+565,3264.0,73,Queensland,0
+566,5435.0,23,Tasmania,3
+567,1370.0,39,Northern Territory,2
+568,2084.0,64,Tasmania,2
+570,1370.0,35,New South Wales,2
+571,6640.0,22,Australian Capital Territory,3
+572,1612.0,27,South Australia,2
+573,2631.0,37,South Australia,0
+574,3318.0,53,Northern Territory,0
+577,1936.0,32,South Australia,2
+578,1101.0,75,New South Wales,1
+581,4216.0,40,South Australia,0
+583,645.0,52,Northern Territory,1
+585,2411.0,23,South Australia,2
+586,815.0,34,New South Wales,1
+587,2003.0,35,Queensland,2
+588,1691.0,48,Victoria,2
+589,3352.0,57,Queensland,0
+592,295.0,64,South Australia,1
+595,2548.0,60,South Australia,2
+597,427.0,80,South Australia,1
+601,1585.0,55,South Australia,2
+602,2267.0,54,Western Australia,2
+605,2296.0,25,Western Australia,2
+606,1799.0,53,New South Wales,2
+607,818.0,42,Northern Territory,1
+609,1318.0,61,Northern Territory,1
+610,836.0,31,Tasmania,1
+611,2812.0,67,New South Wales,0
+612,820.0,35,South Australia,1
+614,2522.0,45,New South Wales,2
+615,943.0,42,Queensland,1
+620,3884.0,35,Australian Capital Territory,0
+623,4214.0,57,South Australia,0
+625,950.0,31,Western Australia,1
+626,523.0,64,New South Wales,1
+627,837.0,51,South Australia,1
+628,1696.0,75,Northern Territory,2
+629,3553.0,53,Western Australia,0
+630,2109.0,49,Victoria,2
+631,2077.0,49,Northern Territory,2
+632,1664.0,55,Northern Territory,2
+634,1755.0,70,South Australia,2
+636,1997.0,24,Northern Territory,2
+637,1169.0,58,Western Australia,1
+638,1101.0,23,Victoria,1
+639,3766.0,40,Victoria,0
+640,693.0,49,Queensland,1
+641,2146.0,62,New South Wales,2
+643,4122.0,36,Tasmania,0
+644,2036.0,46,Western Australia,2
+647,1856.0,51,Australian Capital Territory,2
+648,3485.0,38,South Australia,0
+649,2264.0,74,Northern Territory,2
+651,937.0,61,South Australia,1
+652,563.0,63,South Australia,1
+653,1485.0,21,Queensland,2
+654,1211.0,42,Victoria,1
+655,574.0,77,South Australia,1
+657,3103.0,25,South Australia,0
+659,3314.0,57,Tasmania,0
+660,719.0,47,Australian Capital Territory,1
+661,742.0,45,Western Australia,1
+662,621.0,58,Queensland,1
+664,6341.0,32,Tasmania,3
+665,2082.0,61,Australian Capital Territory,2
+667,505.0,30,Victoria,1
+669,857.0,68,Victoria,1
+673,632.0,59,South Australia,1
+674,1508.0,36,South Australia,2
+676,1289.0,59,Northern Territory,1
+677,2669.0,33,Tasmania,0
+678,1437.0,79,New South Wales,2
+679,2788.0,76,Western Australia,0
+680,3349.0,78,New South Wales,0
+681,799.0,79,Victoria,1
+682,1226.0,27,Western Australia,1
+683,5657.0,45,Australian Capital Territory,3
+684,456.0,78,Western Australia,1
+686,1281.0,22,Victoria,1
+687,1122.0,22,New South Wales,1
+690,3693.0,34,Northern Territory,0
+691,2147.0,73,New South Wales,2
+692,3037.0,20,Tasmania,0
+693,1893.0,45,Queensland,2
+696,2425.0,38,Australian Capital Territory,2
+697,740.0,51,Australian Capital Territory,1
+698,1772.0,27,Victoria,2
+703,2227.0,26,South Australia,2
+706,1375.0,43,Northern Territory,2
+708,726.0,51,Western Australia,1
+709,644.0,65,Victoria,1
+710,1753.0,60,New South Wales,2
+711,3274.0,42,Victoria,0
+714,1587.0,50,Northern Territory,2
+715,1682.0,61,Tasmania,2
+717,699.0,20,Victoria,1
+723,651.0,34,Australian Capital Territory,1
+724,592.0,66,New South Wales,1
+725,1498.0,23,Northern Territory,2
+726,3309.0,27,Western Australia,0
+727,4428.0,26,New South Wales,0
+728,1016.0,51,Western Australia,1
+729,3156.0,54,South Australia,0
+731,771.0,39,Western Australia,1
+732,4240.0,80,Queensland,0
+733,1781.0,67,New South Wales,2
+735,851.0,46,Queensland,1
+736,2778.0,55,Victoria,0
+737,2699.0,60,Tasmania,0
+738,1136.0,55,Northern Territory,1
+739,3074.0,57,New South Wales,0
+740,2991.0,73,Tasmania,0
+742,3097.0,44,Western Australia,0
+745,1479.0,31,Northern Territory,2
+747,327.0,25,Victoria,1
+750,1261.0,42,Victoria,1
+754,2972.0,74,New South Wales,0
+755,1178.0,79,New South Wales,1
+757,3826.0,31,New South Wales,0
+758,2764.0,44,New South Wales,0
+761,751.0,52,Victoria,1
+762,736.0,43,Tasmania,1
+764,1328.0,32,Western Australia,1
+765,1667.0,59,New South Wales,2
+767,3491.0,37,South Australia,0
+768,2136.0,52,Northern Territory,2
+769,2421.0,21,Australian Capital Territory,2
+770,1015.0,50,South Australia,1
+771,1078.0,74,Victoria,1
+772,2175.0,71,South Australia,2
+773,998.0,55,New South Wales,1
+774,2165.0,34,Tasmania,2
+775,781.0,56,Northern Territory,1
+776,2201.0,24,Australian Capital Territory,2
+778,3947.0,20,Northern Territory,0
+780,279.0,55,Victoria,1
+781,860.0,36,Victoria,1
+783,3021.0,49,South Australia,0
+785,461.0,54,Northern Territory,1
+786,519.0,23,New South Wales,1
+787,1812.0,31,South Australia,2
+788,1311.0,71,Queensland,1
+789,2674.0,36,Western Australia,0
+790,525.0,67,Australian Capital Territory,1
+791,1749.0,34,Queensland,2
+793,1953.0,70,Western Australia,2
+794,2723.0,72,South Australia,0
+795,327.0,49,Australian Capital Territory,1
+796,2024.0,26,Queensland,2
+797,2298.0,32,Queensland,2
+799,1468.0,67,New South Wales,2
+800,1243.0,49,Queensland,1
+801,2015.0,64,Australian Capital Territory,2
+802,100.0,72,Northern Territory,1
+803,2371.0,68,Australian Capital Territory,2
+807,1952.0,26,Queensland,2
+808,390.0,35,Western Australia,1
+809,1863.0,76,Tasmania,2
+810,518.0,21,Australian Capital Territory,1
+812,796.0,28,Western Australia,1
+813,4969.0,62,New South Wales,3
+816,675.0,23,Victoria,1
+817,1709.0,45,Tasmania,2
+818,112.0,59,Western Australia,1
+820,898.0,26,Queensland,1
+821,3034.0,74,Australian Capital Territory,0
+825,881.0,46,Tasmania,1
+827,1181.0,37,Tasmania,1
+828,3050.0,57,Queensland,0
+829,1046.0,39,Victoria,1
+830,2649.0,46,South Australia,0
+833,2571.0,27,Western Australia,2
+834,1606.0,61,New South Wales,2
+835,2376.0,25,South Australia,2
+836,603.0,29,Queensland,1
+840,3620.0,25,Western Australia,0
+841,735.0,23,Western Australia,1
+842,2402.0,70,Western Australia,2
+843,413.0,23,South Australia,1
+844,1788.0,63,South Australia,2
+846,1956.0,72,Victoria,2
+847,1039.0,61,Western Australia,1
+849,716.0,29,New South Wales,1
+851,383.0,71,Australian Capital Territory,1
+852,3342.0,67,Tasmania,0
+853,868.0,54,New South Wales,1
+854,1154.0,74,Victoria,1
+857,1068.0,27,Western Australia,1
+865,1235.0,44,Victoria,1
+867,940.0,36,Tasmania,1
+868,654.0,28,Western Australia,1
+869,1196.0,26,South Australia,1
+870,1477.0,49,Queensland,2
+871,1739.0,48,Western Australia,2
+872,2708.0,74,New South Wales,0
+873,225.0,38,Western Australia,1
+874,200.0,65,Western Australia,1
+876,523.0,20,Northern Territory,1
+878,1140.0,54,Victoria,1
+882,1908.0,43,South Australia,2
+883,1372.0,43,South Australia,2
+884,1299.0,43,Northern Territory,1
+886,2072.0,69,Northern Territory,2
+887,1711.0,61,Victoria,2
+889,912.0,69,Northern Territory,1
+892,1427.0,44,Australian Capital Territory,2
+893,530.0,57,Western Australia,1
+895,1437.0,37,Queensland,2
+896,1708.0,67,South Australia,2
+898,1950.0,41,New South Wales,2
+900,424.0,22,Tasmania,1
+904,1014.0,48,Tasmania,1
+906,876.0,74,Australian Capital Territory,1
+907,2140.0,43,South Australia,2
+908,4071.0,42,Queensland,0
+909,3059.0,62,Tasmania,0
+912,828.0,60,Tasmania,1
+914,969.0,39,South Australia,1
+916,1152.0,24,Australian Capital Territory,1
+918,896.0,69,Australian Capital Territory,1
+920,836.0,72,Northern Territory,1
+921,624.0,73,Australian Capital Territory,1
+922,1752.0,53,Victoria,2
+924,1287.0,58,Queensland,1
+925,880.0,70,New South Wales,1
+926,3289.0,68,Northern Territory,0
+927,1441.0,61,Victoria,2
+928,890.0,63,Australian Capital Territory,1
+929,1229.0,68,Northern Territory,1
+933,698.0,36,South Australia,1
+935,2141.0,30,New South Wales,2
+936,1718.0,77,Australian Capital Territory,2
+937,1764.0,70,New South Wales,2
+940,1759.0,46,Tasmania,2
+941,815.0,59,New South Wales,1
+942,610.0,45,Victoria,1
+944,810.0,36,Victoria,1
+945,2095.0,48,Australian Capital Territory,2
+946,636.0,24,Queensland,1
+947,1467.0,74,New South Wales,2
+950,319.0,43,Victoria,1
+951,840.0,66,Tasmania,1
+952,1018.0,45,Northern Territory,1
+954,1794.0,69,South Australia,2
+955,1685.0,57,Australian Capital Territory,2
+956,3373.0,20,New South Wales,0
+957,1254.0,75,South Australia,1
+963,1132.0,47,Northern Territory,1
+965,1619.0,75,Western Australia,2
+966,600.0,63,Western Australia,1
+969,186.0,77,South Australia,1
+970,505.0,44,Queensland,1
+971,2069.0,27,Queensland,2
+973,2116.0,60,Tasmania,2
+974,797.0,66,South Australia,1
+977,1963.0,34,Queensland,2
+980,2318.0,35,South Australia,2
+981,1747.0,47,Australian Capital Territory,2
+984,575.0,57,Northern Territory,1
+986,3573.0,38,Australian Capital Territory,0
+987,1715.0,70,New South Wales,2
+988,1046.0,35,Western Australia,1
+989,1815.0,53,Australian Capital Territory,2
+991,942.0,30,Tasmania,1
+993,892.0,24,Victoria,1
+994,1716.0,53,Western Australia,2
+995,2140.0,63,Western Australia,2
+996,3045.0,59,Tasmania,0
+998,4415.0,32,Queensland,0
+1000,1483.0,71,Tasmania,2

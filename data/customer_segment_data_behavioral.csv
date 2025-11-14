@@ -1,0 +1,617 @@
+customer_id,customer_name,Recency,Frequency,Monetary,R_score,F_score,M_score,Segment_Label
+1,Leanna Busson,203,3,1641,2,2,1,Hibernating
+7,Winslow Ewbanck,156,1,1017,2,1,1,Hibernating
+10,Susanetta Wilshin,229,1,270,1,1,1,Hibernating
+11,Michaeline McIndrew,149,1,382,2,1,1,Hibernating
+12,Fedora Dmych,127,1,1551,3,1,1,Potential Loyalists
+13,Marabel Swinfon,26,1,332,4,1,1,Potential Loyalists
+15,Avril Rossiter,61,2,2475,4,1,2,Potential Loyalists
+16,Gabbie Aldwinckle,6,1,1256,4,1,1,Potential Loyalists
+18,Chan Duchesne,240,2,2301,1,1,2,Hibernating
+19,Chadwick Cruddas,194,1,1172,2,1,1,Hibernating
+20,Gigi Kalaher,4,2,1520,4,1,1,Potential Loyalists
+21,Seana Hearons,158,3,2552,2,2,2,Hibernating
+22,Blayne Sabatier,223,1,2539,1,1,2,Hibernating
+23,Alair Grimwad,154,1,1268,2,1,1,Hibernating
+25,Ernaline Luce,185,1,1253,2,1,1,Hibernating
+26,Timothy Compston,81,1,1347,3,1,1,Potential Loyalists
+27,Jayme Turvie,161,1,1265,2,1,1,Hibernating
+28,Hadley Baddam,14,2,2877,4,1,2,Potential Loyalists
+34,Ninon Corteney,43,1,866,4,1,1,Potential Loyalists
+35,Adamo Saddington,28,2,1640,4,1,1,Potential Loyalists
+40,Regan Gronaller,168,2,1117,2,1,1,Hibernating
+41,Hana Stitch,63,1,1417,4,1,1,Potential Loyalists
+42,Horatius Genever,273,1,1099,1,1,1,Hibernating
+44,Avivah Chipchase,98,1,1194,3,1,1,Potential Loyalists
+45,Vicki Stockwell,63,1,399,4,1,1,Potential Loyalists
+46,Meris Twitty,193,1,710,2,1,1,Hibernating
+47,Jarrett Brumby,81,1,183,3,1,1,Potential Loyalists
+49,Shanna Pietrzyk,31,3,1392,4,2,1,Potential Loyalists
+50,Moore Oolahan,101,2,2564,3,1,2,Potential Loyalists
+51,Kayley Brosoli,63,3,3598,4,2,2,Potential Loyalists
+52,Marena Lockhart,16,1,1180,4,1,1,Potential Loyalists
+54,Tore Caras,71,2,1899,4,1,1,Potential Loyalists
+55,Giles Kyne,161,1,1382,2,1,1,Hibernating
+58,Aurie Margett,43,3,2387,4,2,2,Potential Loyalists
+60,Hyacinth Pepper,95,1,725,3,1,1,Potential Loyalists
+61,Lin Avraam,158,1,236,2,1,1,Hibernating
+62,Denice Ledrane,10,2,3682,4,1,2,Potential Loyalists
+64,Annabella Devote,55,1,1487,4,1,1,Potential Loyalists
+68,Willa Gaisford,5,2,1586,4,1,1,Potential Loyalists
+69,Tiphany Peacop,92,1,1234,3,1,1,Potential Loyalists
+70,Dulcea Shrawley,258,1,547,1,1,1,Hibernating
+72,Marinna Heal,142,1,569,3,1,1,Potential Loyalists
+73,Jehanna Water,255,1,876,1,1,1,Hibernating
+75,Katinka Currier,216,2,2571,2,1,2,Hibernating
+76,Chandra Carine,244,1,529,1,1,1,Hibernating
+77,Angela Kester,55,1,1201,4,1,1,Potential Loyalists
+78,Jethro Pollak,109,2,2412,3,1,2,Potential Loyalists
+79,Persis Spiteri,41,1,1419,4,1,1,Potential Loyalists
+81,Lanny Wardale,167,2,2508,2,1,2,Hibernating
+83,Kayne Fraczkiewicz,72,1,1240,4,1,1,Potential Loyalists
+84,Minta Loble,5,2,3174,4,1,2,Potential Loyalists
+85,Cornie Virr,101,1,1664,3,1,1,Potential Loyalists
+86,Corinna Maystone,164,2,2342,2,1,2,Hibernating
+87,Barbara-anne Salerg,68,1,1149,4,1,1,Potential Loyalists
+88,Kendall Jakubski,126,2,2077,3,1,2,Potential Loyalists
+89,Matthiew Hinckes,261,1,908,1,1,1,Hibernating
+92,Hillary Guiness,115,3,1678,3,2,1,Potential Loyalists
+93,Law Foker,86,1,390,3,1,1,Potential Loyalists
+94,Otha Skein,71,1,1231,4,1,1,Potential Loyalists
+95,Pierre Rockwill,71,1,1932,4,1,1,Potential Loyalists
+96,Garvy Davioud,24,2,1991,4,1,2,Potential Loyalists
+97,Dean McLarty,117,2,938,3,1,1,Potential Loyalists
+99,Benji Vineall,111,1,1256,3,1,1,Potential Loyalists
+100,Wilhelm Blaber,182,3,3032,2,2,2,Hibernating
+102,Hurleigh Sieb,100,3,2805,3,2,2,Potential Loyalists
+103,Monica Teodorski,117,1,1733,3,1,1,Potential Loyalists
+104,Nanny Franey,125,1,819,3,1,1,Potential Loyalists
+106,Rachel Colebrook,209,2,2531,2,1,2,Hibernating
+107,Sandy Yushachkov,16,4,4385,4,3,3,Loyal Customers
+108,Merrill Care,16,3,2831,4,2,2,Potential Loyalists
+110,Giralda Trewin,177,1,941,2,1,1,Hibernating
+111,Eada Viccary,82,1,917,3,1,1,Potential Loyalists
+112,Hadlee Douthwaite,285,1,1378,1,1,1,Hibernating
+113,Hew Cardinal,105,1,1288,3,1,1,Potential Loyalists
+116,Erik Osgar,83,1,685,3,1,1,Potential Loyalists
+117,Alexei Hurburt,94,1,1824,3,1,1,Potential Loyalists
+118,Meghan Simic,294,1,788,1,1,1,Hibernating
+120,Didi Garton,116,1,714,3,1,1,Potential Loyalists
+123,Yardley Dreamer,15,4,3976,4,3,3,Loyal Customers
+124,Pate De Ambrosis,203,1,494,2,1,1,Hibernating
+125,Lesli Pitfield,25,1,1612,4,1,1,Potential Loyalists
+127,Merl Gayforth,286,1,1145,1,1,1,Hibernating
+128,Daisy Camillo,134,1,1503,3,1,1,Potential Loyalists
+129,Beatrisa Winterscale,16,3,4399,4,2,3,Potential Loyalists
+133,Bette-ann Harteley,36,1,697,4,1,1,Potential Loyalists
+134,Raul Pockey,259,1,605,1,1,1,Hibernating
+135,Mycah Rodie,21,2,1537,4,1,1,Potential Loyalists
+139,Vida Matchitt,243,1,923,1,1,1,Hibernating
+142,Valerie D'Errico,117,1,714,3,1,1,Potential Loyalists
+144,Elaina Agate,100,1,998,3,1,1,Potential Loyalists
+146,Lawry Mannooch,77,1,616,3,1,1,Potential Loyalists
+148,Ikey Spohr,100,1,2376,3,1,2,Potential Loyalists
+150,Biddy Devanney,124,1,721,3,1,1,Potential Loyalists
+155,Myrle Kelby,176,2,1366,2,1,1,Hibernating
+156,Cosmo Leys,124,2,1675,3,1,1,Potential Loyalists
+158,Ann-marie Sinden,191,1,879,2,1,1,Hibernating
+160,Christi Reston,77,1,1412,3,1,1,Potential Loyalists
+161,Katalin Tellesson,136,1,1328,3,1,1,Potential Loyalists
+163,Harrietta Burchatt,1,3,3494,4,2,2,Potential Loyalists
+167,Alayne Ipplett,273,1,738,1,1,1,Hibernating
+169,Wald Kaine,179,1,858,2,1,1,Hibernating
+171,Mariellen Medendorp,177,1,697,2,1,1,Hibernating
+176,Curtis McCarroll,228,1,412,1,1,1,Hibernating
+178,Gunner Murdie,261,1,1079,1,1,1,Hibernating
+179,Leeann Gowdie,42,2,1587,4,1,1,Potential Loyalists
+180,Nelli Engall,101,3,2300,3,2,2,Potential Loyalists
+181,Puff Newbury,59,2,2159,4,1,2,Potential Loyalists
+183,Martin O'Mailey,107,3,3374,3,2,2,Potential Loyalists
+185,Darrelle Padson,65,1,600,4,1,1,Potential Loyalists
+187,Trenton Lydiard,161,1,1998,2,1,2,Hibernating
+189,Deedee Pashe,12,3,1732,4,2,1,Potential Loyalists
+191,Isis Doel,171,1,1005,2,1,1,Hibernating
+192,Tommy Ebunoluwa,284,1,1493,1,1,1,Hibernating
+195,Tobye De Caville,182,1,719,2,1,1,Hibernating
+196,Erroll Michelle,143,1,1110,3,1,1,Potential Loyalists
+198,Yevette Weekes,21,1,417,4,1,1,Potential Loyalists
+199,Clayson Mealing,124,1,675,3,1,1,Potential Loyalists
+201,Loni Tort,11,2,3519,4,1,2,Potential Loyalists
+203,Angil Crunden,252,1,942,1,1,1,Hibernating
+204,Bird McGarvie,9,1,1583,4,1,1,Potential Loyalists
+206,Crin Johnikin,66,4,5581,4,3,3,Loyal Customers
+207,Brade Caught,2,3,3320,4,2,2,Potential Loyalists
+208,Shaylyn Musla,49,1,919,4,1,1,Potential Loyalists
+209,Lauryn Deport,130,3,3477,3,2,2,Potential Loyalists
+211,Rowena Doe,40,1,688,4,1,1,Potential Loyalists
+212,Evelyn Chevolleau,295,1,526,1,1,1,Hibernating
+214,Whitaker Pashen,125,1,621,3,1,1,Potential Loyalists
+218,Worthington Knapton,181,1,1069,2,1,1,Hibernating
+219,Jerald MacMeeking,11,1,921,4,1,1,Potential Loyalists
+221,Araldo Washtell,275,1,1282,1,1,1,Hibernating
+223,Saxe Stormonth,11,2,551,4,1,1,Potential Loyalists
+224,Shelbi Impson,292,1,1649,1,1,1,Hibernating
+225,Monty Gowen,5,2,1887,4,1,1,Potential Loyalists
+227,Isaak Ferrarone,65,1,1765,4,1,1,Potential Loyalists
+228,Zaria Garken,101,2,1797,3,1,1,Potential Loyalists
+230,Bourke Pembery,53,1,873,4,1,1,Potential Loyalists
+232,Kaitlyn Pinare,50,1,499,4,1,1,Potential Loyalists
+233,Beverlie Blance,99,1,632,3,1,1,Potential Loyalists
+234,Duncan Walliker,98,2,2461,3,1,2,Potential Loyalists
+236,Anders Couvert,206,3,2692,2,2,2,Hibernating
+237,Cassaundra Sliman,131,1,2469,3,1,2,Potential Loyalists
+238,Hilda Peter,192,1,925,2,1,1,Hibernating
+239,Daria Embleton,202,1,501,2,1,1,Hibernating
+240,Brian Finnes,39,2,2536,4,1,2,Potential Loyalists
+241,Valentine Marley,102,2,1467,3,1,1,Potential Loyalists
+244,Faunie Cooney,62,3,3983,4,2,3,Potential Loyalists
+246,Lucias Forsythe,193,1,477,2,1,1,Hibernating
+247,Atlante McGrotty,103,2,1558,3,1,1,Potential Loyalists
+250,Lavina Dartnell,139,2,1396,3,1,1,Potential Loyalists
+251,Jeanne Pringer,228,1,537,1,1,1,Hibernating
+254,Scot Billany,126,2,2491,3,1,2,Potential Loyalists
+256,Dulcia Gawthorpe,131,2,3214,3,1,2,Potential Loyalists
+257,Trista Aspray,178,1,1016,2,1,1,Hibernating
+258,Mira Heinonen,196,2,3773,2,1,2,Hibernating
+260,Whitney Scarman,95,2,2184,3,1,2,Potential Loyalists
+263,Ringo Sollars,110,1,419,3,1,1,Potential Loyalists
+264,Vite Durrant,287,1,1654,1,1,1,Hibernating
+265,Ianthe Magowan,52,1,743,4,1,1,Potential Loyalists
+266,Sheff Ruoss,144,2,3183,3,1,2,Potential Loyalists
+267,Lionel Mansel,111,2,2016,3,1,2,Potential Loyalists
+268,Muire Ashtonhurst,209,1,1109,2,1,1,Hibernating
+269,Rutger Hugonnet,60,2,2029,4,1,2,Potential Loyalists
+272,Kendre Etherton,59,2,1648,4,1,1,Potential Loyalists
+273,Dag Schiefersten,285,1,1169,1,1,1,Hibernating
+276,Silas Chaman,296,1,1163,1,1,1,Hibernating
+278,Michele Osmant,59,1,1826,4,1,1,Potential Loyalists
+282,Wren Helgass,63,5,7632,4,4,4,Champions
+283,Jaymee Dalrymple,212,1,1187,2,1,1,Hibernating
+286,Gert Brackstone,61,1,1606,4,1,1,Potential Loyalists
+288,Matilde Yanuk,126,1,682,3,1,1,Potential Loyalists
+289,Rafferty Fronek,284,1,1234,1,1,1,Hibernating
+290,Alia Rapinett,200,1,2144,2,1,2,Hibernating
+291,Brodie Hedin,41,1,1017,4,1,1,Potential Loyalists
+292,Aldin Moline,168,2,2100,2,1,2,Hibernating
+298,Roobbie Persich,6,1,635,4,1,1,Potential Loyalists
+299,Anny Midden,166,2,1608,2,1,1,Hibernating
+300,Darren Karpenko,268,1,1431,1,1,1,Hibernating
+301,Elga Corgenvin,261,1,1093,1,1,1,Hibernating
+303,De Lourens,50,1,1747,4,1,1,Potential Loyalists
+305,Meryl Kender,172,1,887,2,1,1,Hibernating
+306,Silas Stephens,13,2,3331,4,1,2,Potential Loyalists
+308,Zeb Shipton,31,2,1823,4,1,1,Potential Loyalists
+309,Ulla Crombie,216,1,1567,2,1,1,Hibernating
+310,Sharyl Royl,123,2,2389,3,1,2,Potential Loyalists
+311,Constantino Langworthy,268,1,1815,1,1,1,Hibernating
+313,Courtnay Cornewell,76,1,961,3,1,1,Potential Loyalists
+315,Jeff Curness,65,2,1798,4,1,1,Potential Loyalists
+316,Sadella Goodsall,279,1,655,1,1,1,Hibernating
+317,Gates Torrance,103,2,2131,3,1,2,Potential Loyalists
+318,Glyn Tieman,166,3,2248,2,2,2,Hibernating
+320,Dani Pinches,229,1,1296,1,1,1,Hibernating
+321,Jena Kelling,2,1,205,4,1,1,Potential Loyalists
+323,Ellerey Kaesmakers,197,1,1571,2,1,1,Hibernating
+325,Robinetta Deners,126,3,2570,3,2,2,Potential Loyalists
+326,Meade Yglesia,261,2,2716,1,1,2,Hibernating
+327,Lynda Seydlitz,11,2,2851,4,1,2,Potential Loyalists
+328,Wadsworth Olivier,8,3,2866,4,2,2,Potential Loyalists
+329,Valery Pache,292,1,1245,1,1,1,Hibernating
+330,Barclay Kinsella,38,1,345,4,1,1,Potential Loyalists
+331,Binnie Gonzales,3,2,2061,4,1,2,Potential Loyalists
+332,Carla Walework,85,2,667,3,1,1,Potential Loyalists
+333,Con Pressdee,152,1,960,2,1,1,Hibernating
+334,Udale Ripping,101,1,1054,3,1,1,Potential Loyalists
+336,Julian Sponer,275,1,583,1,1,1,Hibernating
+337,Milton Otson,212,1,1452,2,1,1,Hibernating
+338,Eve Stutard,81,1,980,3,1,1,Potential Loyalists
+341,Cherlyn Asmus,83,3,3291,3,2,2,Potential Loyalists
+342,Tymothy Linsay,215,1,715,2,1,1,Hibernating
+343,Violet Alwen,38,1,1159,4,1,1,Potential Loyalists
+345,Merrielle Piken,284,1,1459,1,1,1,Hibernating
+346,Kerianne Parris,279,1,204,1,1,1,Hibernating
+347,Lyn Bouts,233,1,1527,1,1,1,Hibernating
+348,Thorny Nornable,24,5,5119,4,4,3,Champions
+350,Dani Hawtin,73,1,1286,4,1,1,Potential Loyalists
+352,Justin Marden,75,1,578,3,1,1,Potential Loyalists
+357,Crawford Bolden,77,1,738,3,1,1,Potential Loyalists
+358,Jermaine Goranov,54,1,1166,4,1,1,Potential Loyalists
+359,Augustin Brandenberg,31,1,2074,4,1,2,Potential Loyalists
+360,Iain Fellnee,239,1,1432,1,1,1,Hibernating
+362,Persis Linch,35,1,1338,4,1,1,Potential Loyalists
+364,Konstantin Kuhlmey,84,1,986,3,1,1,Potential Loyalists
+365,Tammie Gavrielli,184,1,755,2,1,1,Hibernating
+366,Geraldine Naulty,141,1,1141,3,1,1,Potential Loyalists
+367,Hildagarde Dell 'Orto,6,2,1842,4,1,1,Potential Loyalists
+368,Mady Greenleaf,46,1,770,4,1,1,Potential Loyalists
+369,Ephrem Hambers,125,2,1678,3,1,1,Potential Loyalists
+370,Hildegarde Bamlett,13,2,2165,4,1,2,Potential Loyalists
+371,Etan Peirazzi,55,2,1287,4,1,1,Potential Loyalists
+372,Griffy Wenger,127,1,1066,3,1,1,Potential Loyalists
+375,Ninetta Phizakarley,69,2,1260,4,1,1,Potential Loyalists
+382,Emanuele Deesly,221,2,4103,2,1,3,Hibernating
+383,Nathanil Runchman,231,2,1179,1,1,1,Hibernating
+387,Alameda Fincke,35,2,2755,4,1,2,Potential Loyalists
+388,Dame Popov,120,1,624,3,1,1,Potential Loyalists
+389,Caroljean Elstob,123,1,1085,3,1,1,Potential Loyalists
+390,Bee Mazonowicz,290,1,307,1,1,1,Hibernating
+391,Reed Churchlow,243,1,650,1,1,1,Hibernating
+394,Eba Bauser,234,1,1691,1,1,1,Hibernating
+397,Collie Jakel,266,1,748,1,1,1,Hibernating
+398,Damiano Leyborne,219,1,1764,2,1,1,Hibernating
+399,Ailene McKeller,247,1,590,1,1,1,Hibernating
+401,Waylen Swallwell,0,4,3093,4,3,2,Loyal Customers
+402,Zak Titterton,46,2,2004,4,1,2,Potential Loyalists
+404,Teddy Gell,267,1,1803,1,1,1,Hibernating
+407,Murdock Bulfit,172,1,1352,2,1,1,Hibernating
+408,Alis MacCulloch,81,1,1085,3,1,1,Potential Loyalists
+409,Alphonse Galego,109,2,2431,3,1,2,Potential Loyalists
+412,Chandal Fransinelli,154,3,1951,2,2,1,Hibernating
+413,Alexis Maps,272,1,1710,1,1,1,Hibernating
+414,Ansel Chittem,209,2,734,2,1,1,Hibernating
+415,Ashley Gant,1,2,2269,4,1,2,Potential Loyalists
+416,Leonore Yakunikov,22,2,2057,4,1,2,Potential Loyalists
+417,Bay Kraut,67,1,585,4,1,1,Potential Loyalists
+418,Luelle Fernanando,189,2,2258,2,1,2,Hibernating
+419,Chaddie Fawlkes,67,1,452,4,1,1,Potential Loyalists
+421,Kellyann Stening,265,1,321,1,1,1,Hibernating
+422,Farah Schukert,44,3,3270,4,2,2,Potential Loyalists
+423,Datha Vicary,208,1,1426,2,1,1,Hibernating
+426,Augusto Ackrill,80,1,1298,3,1,1,Potential Loyalists
+427,Tomaso Mullin,31,3,2334,4,2,2,Potential Loyalists
+428,Jammal Varcoe,131,2,946,3,1,1,Potential Loyalists
+431,Ronni Gruszczak,182,3,3565,2,2,2,Hibernating
+432,Ettie Gonnely,205,1,1210,2,1,1,Hibernating
+433,Candis Roswarne,85,3,2231,3,2,2,Potential Loyalists
+434,Marci Borrett,125,1,533,3,1,1,Potential Loyalists
+435,Aldridge Tesh,140,1,212,3,1,1,Potential Loyalists
+436,Meredith Canniffe,224,1,1080,1,1,1,Hibernating
+439,Daren Airs,125,4,3916,3,3,3,Loyal Customers
+441,Artemas Vasilischev,209,2,2893,2,1,2,Hibernating
+442,Hobie Anfusso,241,1,690,1,1,1,Hibernating
+443,Melodee Spencley,40,2,2604,4,1,2,Potential Loyalists
+445,Margret Yeabsley,127,2,3155,3,1,2,Potential Loyalists
+446,Benny Songist,224,2,1620,1,1,1,Hibernating
+447,Shena Solomonides,39,1,408,4,1,1,Potential Loyalists
+448,Ashely Inmett,2,1,831,4,1,1,Potential Loyalists
+450,Devonne Martinetto,118,1,480,3,1,1,Potential Loyalists
+452,Toddie Snow,9,1,1450,4,1,1,Potential Loyalists
+453,Guthry Ure,151,1,1733,2,1,1,Hibernating
+454,Abey Bampforth,38,2,2395,4,1,2,Potential Loyalists
+455,Wash Kyneton,187,1,400,2,1,1,Hibernating
+456,Joelynn Remington,60,2,1316,4,1,1,Potential Loyalists
+457,North Diamond,182,2,2866,2,1,2,Hibernating
+458,Romy Cuberley,252,1,691,1,1,1,Hibernating
+460,Frederich Duigenan,193,1,797,2,1,1,Hibernating
+461,Alina Strotton,240,3,3619,1,2,2,Hibernating
+462,Francklyn Willeman,124,1,951,3,1,1,Potential Loyalists
+463,Iago Jedrzaszkiewicz,14,2,1736,4,1,1,Potential Loyalists
+465,Mallory Castellani,64,4,4807,4,3,3,Loyal Customers
+466,Vinnie Feaver,225,2,2066,1,1,2,Hibernating
+467,Cacilie Forrestill,253,2,3564,1,1,2,Hibernating
+468,Maegan Ashton,32,1,1365,4,1,1,Potential Loyalists
+469,Faber Purcell,46,4,2785,4,3,2,Loyal Customers
+470,Trudey Betteridge,128,2,1548,3,1,1,Potential Loyalists
+471,Hayyim Trewhella,234,1,1867,1,1,1,Hibernating
+472,Hal Saker,175,2,2863,2,1,2,Hibernating
+473,Lori Briars,82,2,2175,3,1,2,Potential Loyalists
+474,Clem Margetts,67,1,1529,4,1,1,Potential Loyalists
+476,Orton Heigl,172,1,1119,2,1,1,Hibernating
+478,Krystle Boyce,175,1,1834,2,1,1,Hibernating
+479,Dunc Swynley,94,2,1610,3,1,1,Potential Loyalists
+482,Stanley Kolakowski,244,1,1164,1,1,1,Hibernating
+485,Gayleen Brookes,24,3,3864,4,2,2,Potential Loyalists
+486,Alexis Cheake,167,1,724,2,1,1,Hibernating
+489,Isahella Enrique,113,1,1970,3,1,1,Potential Loyalists
+490,Bank Sargeaunt,65,3,2420,4,2,2,Potential Loyalists
+492,Jolee Stailey,96,2,1626,3,1,1,Potential Loyalists
+493,Andrew Renn,18,3,3015,4,2,2,Potential Loyalists
+496,John Panchen,262,1,1203,1,1,1,Hibernating
+497,Claudio Archibould,54,2,768,4,1,1,Potential Loyalists
+499,Henrietta Briatt,57,1,921,4,1,1,Potential Loyalists
+500,Carlen Kelway,235,1,1039,1,1,1,Hibernating
+501,Archibaldo Taffurelli,19,2,1084,4,1,1,Potential Loyalists
+502,Neilla Halladey,85,2,1693,3,1,1,Potential Loyalists
+504,Marilyn Rontree,155,2,2130,2,1,2,Hibernating
+506,Eddie Elcott,156,1,885,2,1,1,Hibernating
+507,Brooks Sayers,134,1,1393,3,1,1,Potential Loyalists
+508,Jan Isenor,48,1,1714,4,1,1,Potential Loyalists
+510,Kinny Roget,182,2,1372,2,1,1,Hibernating
+513,Corri Womack,55,1,1244,4,1,1,Potential Loyalists
+515,Joannes Pandie,24,4,3326,4,3,2,Loyal Customers
+516,Malcolm Paal,182,1,1625,2,1,1,Hibernating
+518,Margalo Cousen,212,1,1032,2,1,1,Hibernating
+522,Ailina Kynan,100,2,1263,3,1,1,Potential Loyalists
+523,Grissel Harteley,46,1,641,4,1,1,Potential Loyalists
+524,Beverlie Bansal,49,1,726,4,1,1,Potential Loyalists
+526,Ellyn Collacombe,56,3,2358,4,2,2,Potential Loyalists
+528,Cad Dominichetti,59,2,1378,4,1,1,Potential Loyalists
+530,Leroi Weal,11,3,1423,4,2,1,Potential Loyalists
+534,Fanchette Polak,46,1,1680,4,1,1,Potential Loyalists
+535,Kerry Luto,16,2,2586,4,1,2,Potential Loyalists
+537,Beverly Burbridge,121,3,2146,3,2,2,Potential Loyalists
+539,Sonny Tremollet,48,3,3775,4,2,2,Potential Loyalists
+545,Jakob Munks,178,1,500,2,1,1,Hibernating
+548,Nicky Giuron,21,1,1605,4,1,1,Potential Loyalists
+549,Barclay Beswick,55,4,3624,4,3,2,Loyal Customers
+550,Marna Lammerts,30,1,390,4,1,1,Potential Loyalists
+551,Theodor Skipton,225,2,1754,1,1,1,Hibernating
+553,Niels Loadsman,15,2,2167,4,1,2,Potential Loyalists
+554,Lisetta Griffin,201,1,708,2,1,1,Hibernating
+555,Kalil Thal,14,1,978,4,1,1,Potential Loyalists
+556,Nessy Kildea,52,2,2048,4,1,2,Potential Loyalists
+557,Kyle Lowbridge,213,1,1807,2,1,1,Hibernating
+558,Lizette Lindro,25,3,2712,4,2,2,Potential Loyalists
+562,Joy Mirrlees,112,2,1430,3,1,1,Potential Loyalists
+564,Shoshana Redsell,109,1,1786,3,1,1,Potential Loyalists
+565,Hoebart Edger,219,2,3264,2,1,2,Hibernating
+566,Melissa Partkya,5,5,5435,4,4,3,Champions
+567,Andi Kettleson,97,1,1370,3,1,1,Potential Loyalists
+568,Gallard Mangan,24,2,2084,4,1,2,Potential Loyalists
+570,Henryetta Sheffield,103,2,1370,3,1,1,Potential Loyalists
+571,Kristofor Roos,66,6,6640,4,4,4,Champions
+572,Raquela Swinnard,175,1,1612,2,1,1,Hibernating
+573,Atlante Dissman,139,3,2631,3,2,2,Potential Loyalists
+574,Ranna Paolillo,28,3,3318,4,2,2,Potential Loyalists
+577,Hillier Seward,53,3,1936,4,2,1,Potential Loyalists
+578,Riordan Goreway,270,1,1101,1,1,1,Hibernating
+581,Fabian Gostage,155,3,4216,2,2,3,Hibernating
+583,Prissie Dumelow,62,1,645,4,1,1,Potential Loyalists
+585,Alicea Momford,137,2,2411,3,1,2,Potential Loyalists
+586,Wenona Stuck,99,2,815,3,1,1,Potential Loyalists
+587,Carmita Grundey,161,2,2003,2,1,2,Hibernating
+588,Nicole Cheel,115,2,1691,3,1,1,Potential Loyalists
+589,Calhoun Raphael,7,2,3352,4,1,2,Potential Loyalists
+592,Salomo Shuttell,85,1,295,3,1,1,Potential Loyalists
+595,Thomasine Baudet,120,3,2548,3,2,2,Potential Loyalists
+597,Hi Simenel,204,1,427,2,1,1,Hibernating
+601,Sol Adhams,254,2,1585,1,1,1,Hibernating
+602,Kip Cantwell,259,1,2267,1,1,2,Hibernating
+605,Stanleigh Hazelton,28,2,2296,4,1,2,Potential Loyalists
+606,Averyl Atthow,104,2,1799,3,1,1,Potential Loyalists
+607,Angie O Mullen,52,1,818,4,1,1,Potential Loyalists
+609,Vin Rubenovic,294,1,1318,1,1,1,Hibernating
+610,Sadye Pes,225,1,836,1,1,1,Hibernating
+611,Conny Chowne,112,2,2812,3,1,2,Potential Loyalists
+612,Leann Kittow,151,1,820,2,1,1,Hibernating
+614,Sherwynd Batsford,92,3,2522,3,2,2,Potential Loyalists
+615,Jacquelin Santostefano.,152,1,943,2,1,1,Hibernating
+620,Phillipe Gatecliffe,91,4,3884,3,3,3,Loyal Customers
+623,Hort Ridding,25,3,4214,4,2,3,Potential Loyalists
+625,Zorina Rabl,204,1,950,2,1,1,Hibernating
+626,Tann Scothron,202,1,523,2,1,1,Hibernating
+627,Codie Everly,48,2,837,4,1,1,Potential Loyalists
+628,Frayda Simonini,109,2,1696,3,1,1,Potential Loyalists
+629,Sigismundo Basek,34,3,3553,4,2,2,Potential Loyalists
+630,Nicholle Coom,2,2,2109,4,1,2,Potential Loyalists
+631,Wanids Cudby,71,1,2077,4,1,2,Potential Loyalists
+632,Darby Jeffries,35,2,1664,4,1,1,Potential Loyalists
+634,Channa Powley,190,1,1755,2,1,1,Hibernating
+636,Nara Legerwood,133,2,1997,3,1,2,Potential Loyalists
+637,Morie Woodfield,52,1,1169,4,1,1,Potential Loyalists
+638,Olympia Stobbs,23,2,1101,4,1,1,Potential Loyalists
+639,Tobin Jeffryes,155,3,3766,2,2,2,Hibernating
+640,Uriel Cottingham,54,1,693,4,1,1,Potential Loyalists
+641,Zebulon Rousel,127,2,2146,3,1,2,Potential Loyalists
+643,Pietro Duling,180,3,4122,2,2,3,Hibernating
+644,Ashlie Godwyn,29,2,2036,4,1,2,Potential Loyalists
+647,Malory Emmison,84,2,1856,3,1,1,Potential Loyalists
+648,Jaquelyn Dow,5,3,3485,4,2,2,Potential Loyalists
+649,Willey Tolley,125,1,2264,3,1,2,Potential Loyalists
+651,Beckie Nasey,227,1,937,1,1,1,Hibernating
+652,Roley Cassedy,160,1,563,2,1,1,Hibernating
+653,Pieter Bruton,27,1,1485,4,1,1,Potential Loyalists
+654,Gareth Bindon,145,1,1211,3,1,1,Potential Loyalists
+655,Jillene Goodbanne,277,1,574,1,1,1,Hibernating
+657,Orran Skip,215,2,3103,2,1,2,Hibernating
+659,Ira Dafforne,9,3,3314,4,2,2,Potential Loyalists
+660,Slade Villaret,282,1,719,1,1,1,Hibernating
+661,Engracia Abilowitz,161,1,742,2,1,1,Hibernating
+662,Nerita Peotz,24,1,621,4,1,1,Potential Loyalists
+664,Dannie Fidler,20,5,6341,4,4,4,Champions
+665,Jedidiah Sydall,164,1,2082,2,1,2,Hibernating
+667,Annice Kelcey,292,1,505,1,1,1,Hibernating
+669,Bobbi Pickerill,270,1,857,1,1,1,Hibernating
+673,Carlynn McCabe,37,1,632,4,1,1,Potential Loyalists
+674,Marthena Matterson,7,2,1508,4,1,1,Potential Loyalists
+676,Haslett Edwins,295,1,1289,1,1,1,Hibernating
+677,Nady Buston,104,2,2669,3,1,2,Potential Loyalists
+678,Dare Andrich,40,1,1437,4,1,1,Potential Loyalists
+679,Osgood Percifer,13,2,2788,4,1,2,Potential Loyalists
+680,Camellia Heatherington,75,3,3349,3,2,2,Potential Loyalists
+681,Shermy Mulbry,164,1,799,2,1,1,Hibernating
+682,Alon Abramsky,154,1,1226,2,1,1,Hibernating
+683,Esteban Hensmans,110,3,5657,3,2,3,Potential Loyalists
+684,Camala Llywarch,84,1,456,3,1,1,Potential Loyalists
+686,Elbertina Gaish,68,1,1281,4,1,1,Potential Loyalists
+687,Amalia Eallis,0,1,1122,4,1,1,Potential Loyalists
+690,Arlie Bowman,0,3,3693,4,2,2,Potential Loyalists
+691,Silvie Bortol,26,2,2147,4,1,2,Potential Loyalists
+692,Perceval Umbers,121,2,3037,3,1,2,Potential Loyalists
+693,Hetti Fibbens,34,3,1893,4,2,1,Potential Loyalists
+696,Miner Craddock,150,2,2425,2,1,2,Hibernating
+697,Antonia Yeardsley,128,1,740,3,1,1,Potential Loyalists
+698,Cary Boaler,109,1,1772,3,1,1,Potential Loyalists
+703,Diann Grieger,14,2,2227,4,1,2,Potential Loyalists
+706,Stephen MacAleese,250,1,1375,1,1,1,Hibernating
+708,Debee Lording,168,1,726,2,1,1,Hibernating
+709,Lilli Bavester,150,1,644,2,1,1,Hibernating
+710,Avivah Roddick,88,2,1753,3,1,1,Potential Loyalists
+711,Lin Norville,132,4,3274,3,3,2,Loyal Customers
+714,Marnie Dennington,178,1,1587,2,1,1,Hibernating
+715,Lindsey McCuthais,18,1,1682,4,1,1,Potential Loyalists
+717,Mellisent Druhan,219,1,699,2,1,1,Hibernating
+723,Drusi Eagell,94,1,651,3,1,1,Potential Loyalists
+724,Etheline Bahde,293,1,592,1,1,1,Hibernating
+725,Bucky Cragell,85,1,1498,3,1,1,Potential Loyalists
+726,Rey Grasner,161,2,3309,2,1,2,Hibernating
+727,Herschel Verdey,3,4,4428,4,3,3,Loyal Customers
+728,Kellie Curbishley,212,1,1016,2,1,1,Hibernating
+729,Gerri McCarle,40,3,3156,4,2,2,Potential Loyalists
+731,Olimpia Tankus,218,1,771,2,1,1,Hibernating
+732,Gorden Seago,17,4,4240,4,3,3,Loyal Customers
+733,Otto Matyasik,189,1,1781,2,1,1,Hibernating
+735,Valentino Branney,81,1,851,3,1,1,Potential Loyalists
+736,Delia Mably,133,3,2778,3,2,2,Potential Loyalists
+737,Zebulen Zannotti,68,2,2699,4,1,2,Potential Loyalists
+738,Lilyan Pirt,270,1,1136,1,1,1,Hibernating
+739,Kristel Klaaassen,68,3,3074,4,2,2,Potential Loyalists
+740,Meryl Neeson,65,3,2991,4,2,2,Potential Loyalists
+742,Selestina Dauber,3,3,3097,4,2,2,Potential Loyalists
+745,Lindy Saltrese,4,1,1479,4,1,1,Potential Loyalists
+747,Cristen Hagley,8,1,327,4,1,1,Potential Loyalists
+750,Mirabelle Vaney,3,2,1261,4,1,1,Potential Loyalists
+754,Ninnetta Lammin,21,3,2972,4,2,2,Potential Loyalists
+755,Herbert Rock,57,1,1178,4,1,1,Potential Loyalists
+757,Taffy Quimby,3,3,3826,4,2,2,Potential Loyalists
+758,Mallissa Lawdham,52,2,2764,4,1,2,Potential Loyalists
+761,Jan Gligori,219,1,751,2,1,1,Hibernating
+762,Eloise Ondrusek,13,1,736,4,1,1,Potential Loyalists
+764,Brod Phifer,2,2,1328,4,1,1,Potential Loyalists
+765,Marni Figiovanni,224,1,1667,1,1,1,Hibernating
+767,Waylin Gasson,26,3,3491,4,2,2,Potential Loyalists
+768,Aida Warsap,216,1,2136,2,1,2,Hibernating
+769,Sigmund Bothen,88,2,2421,3,1,2,Potential Loyalists
+770,Thorsten Sowrey,93,1,1015,3,1,1,Potential Loyalists
+771,Paul McGavigan,221,1,1078,2,1,1,Hibernating
+772,Marlee Edser,129,2,2175,3,1,2,Potential Loyalists
+773,Paxon O'Shiel,291,1,998,1,1,1,Hibernating
+774,Ellynn Korba,16,3,2165,4,2,2,Potential Loyalists
+775,Edee Wildt,126,1,781,3,1,1,Potential Loyalists
+776,Felice Dumbleton,28,2,2201,4,1,2,Potential Loyalists
+778,Chastity Daniaud,9,3,3947,4,2,3,Potential Loyalists
+780,Cinda Alleyne,62,1,279,4,1,1,Potential Loyalists
+781,Denny Parlour,211,1,860,2,1,1,Hibernating
+783,Gusty Smallacombe,51,3,3021,4,2,2,Potential Loyalists
+785,Jillana Blankau,131,1,461,3,1,1,Potential Loyalists
+786,Lorine McLugish,203,1,519,2,1,1,Hibernating
+787,Sharl Izzett,69,2,1812,4,1,1,Potential Loyalists
+788,Gwenette Kahen,115,1,1311,3,1,1,Potential Loyalists
+789,Bone Perche,284,2,2674,1,1,2,Hibernating
+790,Drake Ivanilov,294,1,525,1,1,1,Hibernating
+791,Jojo Toffanini,173,2,1749,2,1,1,Hibernating
+793,Tressa Cunnane,197,2,1953,2,1,1,Hibernating
+794,Elizabet Pippin,66,2,2723,4,1,2,Potential Loyalists
+795,Berri O' Clovan,252,1,327,1,1,1,Hibernating
+796,Perry McAless,200,1,2024,2,1,2,Hibernating
+797,Rachelle Jelf,123,1,2298,3,1,2,Potential Loyalists
+799,Gibbie Beardall,45,2,1468,4,1,1,Potential Loyalists
+800,Katusha Ceney,45,2,1243,4,1,1,Potential Loyalists
+801,Morgana Weymouth,10,2,2015,4,1,2,Potential Loyalists
+802,Amaleta Beange,162,1,100,2,1,1,Hibernating
+803,Gertrude Harriott,52,2,2371,4,1,2,Potential Loyalists
+807,Dena Banbrick,231,2,1952,1,1,1,Hibernating
+808,Marvin Van Hault,4,1,390,4,1,1,Potential Loyalists
+809,Winn Siemandl,133,2,1863,3,1,1,Potential Loyalists
+810,Charles Duffitt,43,1,518,4,1,1,Potential Loyalists
+812,Else Bicheno,155,1,796,2,1,1,Hibernating
+813,Saul Franklyn,30,3,4969,4,2,3,Potential Loyalists
+816,Edithe Yitshak,39,1,675,4,1,1,Potential Loyalists
+817,Joella Tiddeman,208,1,1709,2,1,1,Hibernating
+818,Nathaniel McCandless,26,1,112,4,1,1,Potential Loyalists
+820,Normy Anlay,177,1,898,2,1,1,Hibernating
+821,Errol Berkley,111,2,3034,3,1,2,Potential Loyalists
+825,Judith Plimmer,221,1,881,2,1,1,Hibernating
+827,Eryn Harcus,183,1,1181,2,1,1,Hibernating
+828,Tucky Kitchaside,17,3,3050,4,2,2,Potential Loyalists
+829,Marget Kells,222,1,1046,2,1,1,Hibernating
+830,Gertrudis Pergens,22,2,2649,4,1,2,Potential Loyalists
+833,Hilliard Papes,28,2,2571,4,1,2,Potential Loyalists
+834,Glenn Keri,99,2,1606,3,1,1,Potential Loyalists
+835,Randell Shorte,286,2,2376,1,1,2,Hibernating
+836,Nixie Fraczak,198,1,603,2,1,1,Hibernating
+840,Ellene Dedam,88,3,3620,3,2,2,Potential Loyalists
+841,Rorie Hof,99,1,735,3,1,1,Potential Loyalists
+842,Millicent Stedson,170,2,2402,2,1,2,Hibernating
+843,Sheela Dovey,266,1,413,1,1,1,Hibernating
+844,Lorelle Lancastle,96,2,1788,3,1,1,Potential Loyalists
+846,Isidore Bleasdille,140,2,1956,3,1,1,Potential Loyalists
+847,Rowena Soall,194,1,1039,2,1,1,Hibernating
+849,Gina Pollen,47,1,716,4,1,1,Potential Loyalists
+851,Worthy Pardoe,79,1,383,3,1,1,Potential Loyalists
+852,Lucas Cromly,176,3,3342,2,2,2,Hibernating
+853,Brenden Roast,128,1,868,3,1,1,Potential Loyalists
+854,Lisle Worthing,232,1,1154,1,1,1,Hibernating
+857,Dianemarie Neicho,140,1,1068,3,1,1,Potential Loyalists
+865,Ondrea Apark,191,2,1235,2,1,1,Hibernating
+867,Hunfredo Peyto,68,1,940,4,1,1,Potential Loyalists
+868,Berry Rosiello,260,1,654,1,1,1,Hibernating
+869,Vladimir Jandourek,252,1,1196,1,1,1,Hibernating
+870,Lorenzo Dutch,82,2,1477,3,1,1,Potential Loyalists
+871,Calypso Ellaway,131,2,1739,3,1,1,Potential Loyalists
+872,Brendis Blackboro,181,3,2708,2,2,2,Hibernating
+873,Cecilla Pigford,199,2,225,2,1,1,Hibernating
+874,Prissie Kondratovich,80,1,200,3,1,1,Potential Loyalists
+876,Glynda Dodshon,184,1,523,2,1,1,Hibernating
+878,Elianore Syphas,69,2,1140,4,1,1,Potential Loyalists
+882,Bartel Clemendet,29,4,1908,4,3,1,Loyal Customers
+883,Noel Siviour,80,1,1372,3,1,1,Potential Loyalists
+884,Frederique Hopkins,21,1,1299,4,1,1,Potential Loyalists
+886,Emylee Buscher,79,2,2072,3,1,2,Potential Loyalists
+887,Killie Wigzell,226,1,1711,1,1,1,Hibernating
+889,Kaitlin Jeanes,30,1,912,4,1,1,Potential Loyalists
+892,Jania Sailes,91,1,1427,3,1,1,Potential Loyalists
+893,Angelle Huby,109,1,530,3,1,1,Potential Loyalists
+895,Robena Gilbert,183,1,1437,2,1,1,Hibernating
+896,Thoma Seaking,141,2,1708,3,1,1,Potential Loyalists
+898,Jillian Sauven,32,2,1950,4,1,1,Potential Loyalists
+900,Shelden Tinline,109,1,424,3,1,1,Potential Loyalists
+904,Sutherlan Stepto,78,1,1014,3,1,1,Potential Loyalists
+906,Vincent Kiledal,208,1,876,2,1,1,Hibernating
+907,Aindrea Franzetti,114,3,2140,3,2,2,Potential Loyalists
+908,Kakalina Ragge,2,3,4071,4,2,3,Potential Loyalists
+909,Patin Circuit,60,3,3059,4,2,2,Potential Loyalists
+912,Chancey Iacovozzo,24,2,828,4,1,1,Potential Loyalists
+914,Emmalee Camin,254,1,969,1,1,1,Hibernating
+916,Gabriella Nutman,133,1,1152,3,1,1,Potential Loyalists
+918,Tracie Okey,61,1,896,4,1,1,Potential Loyalists
+920,Curcio Kiffin,101,1,836,3,1,1,Potential Loyalists
+921,Cindi McCague,39,1,624,4,1,1,Potential Loyalists
+922,Adena Venn,51,2,1752,4,1,1,Potential Loyalists
+924,Cherie Fairhead,35,1,1287,4,1,1,Potential Loyalists
+925,Deirdre Burle,225,1,880,1,1,1,Hibernating
+926,Vittorio Rosenstengel,168,3,3289,2,2,2,Hibernating
+927,Joby Law,261,2,1441,1,1,1,Hibernating
+928,Hughie Trelease,155,1,890,2,1,1,Hibernating
+929,Reba Crauford,79,1,1229,3,1,1,Potential Loyalists
+933,Lenna Beau,63,1,698,4,1,1,Potential Loyalists
+935,Pen Andrzejczak,231,1,2141,1,1,2,Hibernating
+936,Mart Naismith,11,1,1718,4,1,1,Potential Loyalists
+937,Judy Mesias,66,2,1764,4,1,1,Potential Loyalists
+940,Jamesy Rennles,166,1,1759,2,1,1,Hibernating
+941,Egon Figliovanni,19,1,815,4,1,1,Potential Loyalists
+942,Lacee Denyukin,162,1,610,2,1,1,Hibernating
+944,Peri Pilsworth,119,1,810,3,1,1,Potential Loyalists
+945,Lorilyn Vittet,201,1,2095,2,1,2,Hibernating
+946,Raul Crilly,295,1,636,1,1,1,Hibernating
+947,Dulsea Collet,102,1,1467,3,1,1,Potential Loyalists
+950,Eustacia Andreassen,153,1,319,2,1,1,Hibernating
+951,Cy Sabbins,201,1,840,2,1,1,Hibernating
+952,Geri Renton,196,1,1018,2,1,1,Hibernating
+954,Timmie Kelshaw,28,1,1794,4,1,1,Potential Loyalists
+955,Dolph Arrow,38,1,1685,4,1,1,Potential Loyalists
+956,Camile Haveline,12,3,3373,4,2,2,Potential Loyalists
+957,Felic Marrian,209,1,1254,2,1,1,Hibernating
+963,Albina Disdel,83,1,1132,3,1,1,Potential Loyalists
+965,Terri Lunny,92,2,1619,3,1,1,Potential Loyalists
+966,Bunni Poundsford,229,1,600,1,1,1,Hibernating
+969,Ginnie Glasheen,289,1,186,1,1,1,Hibernating
+970,Delcine Pickthorn,140,1,505,3,1,1,Potential Loyalists
+971,Constance Piddington,67,3,2069,4,2,2,Potential Loyalists
+973,Lars Stading,117,1,2116,3,1,2,Potential Loyalists
+974,Tally Rubel,220,1,797,2,1,1,Hibernating
+977,Michell Lappine,271,1,1963,1,1,1,Hibernating
+980,Sharleen Langworthy,38,2,2318,4,1,2,Potential Loyalists
+981,Darby Aistrop,141,1,1747,3,1,1,Potential Loyalists
+984,Devin Lindmark,13,1,575,4,1,1,Potential Loyalists
+986,Theodosia Postins,29,2,3573,4,1,2,Potential Loyalists
+987,Grady Wipper,222,2,1715,2,1,1,Hibernating
+988,Tommie Benoy,260,1,1046,1,1,1,Hibernating
+989,Sauncho Boosey,155,2,1815,2,1,1,Hibernating
+991,Cristina Jowling,224,1,942,1,1,1,Hibernating
+993,Orella Singyard,216,1,892,2,1,1,Hibernating
+994,Vanna Densham,285,1,1716,1,1,1,Hibernating
+995,Leandra Derks,83,1,2140,3,1,2,Potential Loyalists
+996,Elvira Sarfati,51,2,3045,4,1,2,Potential Loyalists
+998,Rebecka Fabler,97,4,4415,3,3,3,Loyal Customers
+1000,Mandel Fairbanks,13,1,1483,4,1,1,Potential Loyalists

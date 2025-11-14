@@ -1,0 +1,14 @@
+order_date,orders,data_type
+2021-01-01,109,Actual
+2021-02-01,93,Actual
+2021-03-01,117,Actual
+2021-04-01,99,Actual
+2021-05-01,84,Actual
+2021-06-01,102,Actual
+2021-07-01,105,Actual
+2021-08-01,106,Actual
+2021-09-01,98,Actual
+2021-10-01,80,Actual
+2021-11-01,91,Forecast
+2021-12-01,90,Forecast
+2022-01-01,88,Forecast

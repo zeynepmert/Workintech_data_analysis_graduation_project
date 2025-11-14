@@ -1,0 +1,5 @@
+Segment_Label,total_customers,churned_customers,churn_rate
+Champions,5,2,40.0
+Hibernating,233,233,100.0
+Loyal Customers,15,6,40.0
+Potential Loyalists,363,195,53.71900826446281

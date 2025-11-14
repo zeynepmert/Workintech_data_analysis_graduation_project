@@ -1,0 +1,7 @@
+﻿Metrik,Değer
+Haftalık Ortalama (TL) - Tüm Dönem,"23,995"
+Haftalık Ortalama (TL) - Test Dönemi,"23,642"
+Tahmin Doğruluğu (R²),0.972
+Ortalama Hata (MAE),585
+Hata Oranı (MAPE %),2.6
+Model,Linear Regression
